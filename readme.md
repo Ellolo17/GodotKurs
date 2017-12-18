@@ -5,6 +5,7 @@ I made a Videogame Developement course for the Montessori School in Hagen.
 Here are the projects I did to teach this to the children. They have re-done these projects, or made a Mod of them, changing graphics, music.. Now they can create graphic 2d Assets, Music, Sound Effects and scripts. 
 
 The instructions are in german
+
 Content:
 * Pong (the same as the tutorial in Godot Website, but with my graphics)
 * SuperSpy clone (I made a tutorial somewere else, I adapted it with my graphics)
